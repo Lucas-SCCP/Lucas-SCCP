@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucas-SCCP
 - 👀 I’m interested in web development and mobile
-- 🌱 I’m currently learning flutter and English
+- 🌱 I’m currently learning react, Go and English
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 lucas.2601@gmail.com
