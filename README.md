@@ -2,4 +2,3 @@
 - 👀 I’m interested in web development and mobile
 - 🌱 I’m currently learning React, Python and English
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 lucas.2601@gmail.com
